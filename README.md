@@ -1,6 +1,6 @@
-# Web Socket Example
+# Socket IO Example
 
-Web Socket을 이용한 채팅 앱 예제
+Socket IO를 이용한 채팅 앱 예제
 
 ## Scripts
 
